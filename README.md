@@ -1,4 +1,4 @@
-### Hi, I’m @Lovekesh121003 👋
+### Hi, I’m @Lovekesh Jain 👋
 
 - 👀 I’m interested in Electronics, Communication Engineering, and innovative capstone projects.
 - 🌱 I’m currently learning advanced communication systems, IoT, and resume-building APIs.
