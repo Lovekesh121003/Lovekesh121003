@@ -1,0 +1,12 @@
+### Hi, I’m @Lovekesh121003 👋
+
+- 👀 I’m interested in Electronics, Communication Engineering, and innovative capstone projects.
+- 🌱 I’m currently learning advanced communication systems, IoT, and resume-building APIs.
+- 💞️ I’m looking to collaborate on projects involving hardware-software integration and innovative tech solutions.
+- 📫 How to reach me: [lovekesh13@gmail.com] or [www.linkedin.com/in/lovekesh-jain-b9536a238]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring the intersection of technology and creativity to solve real-world problems!
+<!---
+Lovekesh121003/Lovekesh121003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
